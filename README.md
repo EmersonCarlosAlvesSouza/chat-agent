@@ -22,7 +22,7 @@ chat-agent/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ✅ Pré-requisitos
 
 Python 3.10+ instalado
